@@ -1,0 +1,11 @@
+[0425/184819.174:ERROR:process_info.cc(359)] UncheckedAllocate
+[0425/185611.904:ERROR:process_info.cc(359)] UncheckedAllocate
+[0425/185611.908:ERROR:process_info.cc(359)] UncheckedAllocate
+[0425/185612.748:ERROR:process_info.cc(359)] UncheckedAllocate
+[0425/185612.892:ERROR:process_info.cc(359)] UncheckedAllocate
+[0425/185612.890:ERROR:process_info.cc(359)] UncheckedAllocate
+[0430/160230.467:ERROR:process_info.cc(359)] UncheckedAllocate
+[0506/124731.729:ERROR:process_info.cc(359)] UncheckedAllocate
+[0506/124735.698:ERROR:process_info.cc(359)] UncheckedAllocate
+[0506/124742.182:ERROR:process_info.cc(359)] UncheckedAllocate
+[0506/124742.197:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\AE34B~1.KOV\AppData\Local\Temp\scoped_dir5148_14526\Crashpad\reports\c498bba9-d6d9-45c4-a60d-5a3f5f7bb43e.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)
